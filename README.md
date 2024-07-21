@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himadri Dey</h1>
-<h3 align="center">Full-Stack Web Developer| Open Source Enthusiast</h3>
+<h3 align="center">Full-Stack Developer| Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisishd&label=Profile%20views&color=0e75b6&style=flat" alt="thisishd" /> </p>
 
