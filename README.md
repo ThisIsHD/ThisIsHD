@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **himadridey165@gmail.com**
 
-- ⚡ Fun fact **Mitochondria is the powerhouse of the cell**
+- ⚡ Fun fact **Live Laugh Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
