@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisishd" alt="thisishd" /></a> </p>
 
-- 💬 Ask me about **React.js,Node.js,MongoDB,Next.js,Flutter,React Native,MySQL,Docker,WSL,Django using Python, C++**
+- 💬 Ask me about **React.js, Node.js, MongoDB, Next.js, Flutter, React Native, MySQL,Docker, WSL, Django using Python, C++**
 
 - 📫 How to reach me **himadridey165@gmail.com**
 
