@@ -210,11 +210,11 @@ Three-dimensional solar system model rendering Near-Earth Objects using data fet
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/thisishd/thisishd/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+<img src="https://raw.githubusercontent.com/thisishd/thisishd/output/ocean.gif" width="97%"/>
 
 </div>
 
-> 💡 *The snake animation requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up on your profile repo to auto-generate.*
+> 💡 *This animated ocean gif requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up on your profile repo to auto-generate — see the workflow file provided earlier.*
 
 <br/>
 
