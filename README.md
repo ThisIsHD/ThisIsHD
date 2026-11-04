@@ -192,7 +192,7 @@ Three-dimensional solar system model rendering Near-Earth Objects using data fet
 
 </div>
 
-> 💡 *Add your Portfolio, LeetCode, or Codeforces badges here the same way once you have those links.*
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%"/>
 
